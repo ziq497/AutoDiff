@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+autodiff/__init__.py
+autodiff/ad.py
+autodiff/dual.py
+autodiff/forwardmode.py
+autodiff/node.py
+autodiff/reversemode.py
+cs107_automatic_differentiation_ziq497.egg-info/PKG-INFO
+cs107_automatic_differentiation_ziq497.egg-info/SOURCES.txt
+cs107_automatic_differentiation_ziq497.egg-info/dependency_links.txt
+cs107_automatic_differentiation_ziq497.egg-info/requires.txt
+cs107_automatic_differentiation_ziq497.egg-info/top_level.txt

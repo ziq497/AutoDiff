@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "cs107_automatic_differentiation_ziq497"
+version = "0.0.3"
+authors = [
+  { name="Rebecca Qiu", email="zqiu1@fas.harvard.edu" },
+  { name="Amelia Li", email="weixili@g.harvard.edu" },
+  { name="April Chang", email="aprilchang@g.harvard.edu" },
+  { name="Kamron Landry", email="landrykamron@gmail.com" }
+]
+description = "A automatic differentiation package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "numpy",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"

@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: cs107-automatic-differentiation-ziq497
+Version: 0.0.3
+Summary: A automatic differentiation package
+Author-email: Rebecca Qiu <zqiu1@fas.harvard.edu>, Amelia Li <weixili@g.harvard.edu>, April Chang <aprilchang@g.harvard.edu>, Kamron Landry <landrykamron@gmail.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# team24
+![test.yml](https://code.harvard.edu/CS107/team24/actions/workflows/test.yml/badge.svg)
+![coverage.yml](https://code.harvard.edu/CS107/team24/actions/workflows/coverage.yml/badge.svg)
+
+
+## Broader Impact and Inclusivity statment
+
+The potential broader impacts and implications of our Automatic Differentiation software are wide-ranging and far-reachng. The software has the potential to improve the efficiency and accuracy of a wide range of scientific and engineering applications, such as machine learning and optimization. This could improve the performance of these applications and enabling new and innovative uses for them.
+
+In the long term, the broader impact of our open source software will depend on how it is used and by whom. Responsible use of the software could lead to significant advances in a wide range of fields, such as healthcare, transportation, and energy production. Misuse or malicious use of the software, however, could have negative consequences. For example, if our reverse mode automatic differentaition functionality is used for backpropogation of a neural network this could lead to the introduction of discriminatory biases or the perpetuation of existing biases in that neural network. We want to encourage that users of this open source software understand and consider these potential impacts at take steps to mitigate any negative impacts. 
+
+To ensure that the software is accessible and easy to use for the broader community, we have made the code base open source, created detailed documentation, and made an informative video that are all targeted at enabling users from a wide range of abilities and backgrounds to understand and utilize the software. Additionally, users and contributors should feel welcome to contact us for further information or with suggestions on how to make this project more accessible and accommodating. While our software is designed to be accessible and inclusive to the broader community and we believe that everyone should have the opportunity to contribute to and benefit from the software there are some barriers which we will seek to improve in the future. For example, our video, documentation, and code are currently only available in english. Users can use translation services to get around this but we would like to increase support for other languages if our user base grows. Moreover, the program requires some familiarity with the command line and programming. Building a more user-friendly graphical or web based interface could improve the accessiblity of this tool. We will also put in place a transparent and fair review process for pull requests, to ensure that all contributions are evaluated on their merits. This review process will invlove approval from all four members of our team. We welcome contributions from anyone who has something to offer, and we will work to ensure that everyone has an equal opportunity to have their contributions heard and considered.
