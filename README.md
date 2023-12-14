@@ -1,7 +1,7 @@
 # An Automatic Differentiation Library
 
-![test.yml](https://github.com/ziq497/AutoDiff/actions/workflows/test.yml/badge.svg)
-![coverage.yml](https://github.com/ziq497/AutoDiff/actions/workflows/coverage.yml/badge.svg)
+![test.yml](https://github.com/amelialwx/AutoDiff/actions/workflows/test.yml/badge.svg)
+![coverage.yml](https://github.com/amelialwx/AutoDiff/actions/workflows/coverage.yml/badge.svg)
 
 An automatic differentiation library for my CS207 final project at Harvard University.
 
@@ -28,7 +28,7 @@ Please take a look at the [documentation](https://github.com/ziq497/AutoDiff/blo
 
 ## Extra
 
-Code coverage results can be found [here](https://ziq497.github.io/AutoDiff/).
+Code coverage results can be found [here](https://amelialwx.github.io/AutoDiff/).
 
 Package on Test PyPI can be found [here](https://test.pypi.org/project/AutoDiff-Library/1.0/).
 
